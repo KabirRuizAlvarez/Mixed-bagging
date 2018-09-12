@@ -1,5 +1,5 @@
 # Mixed-bagging
-This repository contains the code and data for the experiments in our paper "Mixed Bagging based on Instance Hardness: A Novel Ensemble Learning Framework for Supervised Classification"
+This repository contains the code and data for the experiments in our paper "Mixed Bagging: A Novel Ensemble Learning Framework for Supervised Classification based on Instance Hardness"
 
 The code folder has the following programs:
   "Mixed bagging v12 (with Adaboost) code for ICDM 2018.py" - Where the proposed and traditional methods have been implemented and tested with cross-validation on the datasets,
